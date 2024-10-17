@@ -1,4 +1,5 @@
 public class SeleccionarDatos {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         // determinar el tipo de dato más adecuado en Java para representar cada uno:
         // 1-La temperatura media de una ciudad durante el verano (en grados Celsius).
