@@ -9,21 +9,24 @@ import java.util.Scanner;
 public class Tablamultiplicar {
 
     public static Scanner sc = new Scanner(System.in);
+
     public static void main(String[] args) {
-        int num= pedirNumero();
+        int num = pedirNumero();
         tablaMultiplicar(num);
-        sc.close();  
+        sc.close();
     }
-    private static int pedirNumero(){
+
+    private static int pedirNumero() {
         System.out.println("Ingresa un número");
-        
+
         return sc.nextInt();
     }
-    private static void tablaMultiplicar(int multi){
-        for (int i = 1; i <=10; i++) {
-            System.out.println(i*multi);
-            
+
+    private static void tablaMultiplicar(int multi) {
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(i * multi);
+
         }
     }
-    
+
 }

@@ -1,10 +1,15 @@
 {
     "java.project.sourcePaths": [
+        "Intro a Java/Metodos lll",
+        "Intro a Java/Metodos ll",
+        "Intro a Java/Metodos l",
+        "Intro a Java/ActIntegradoralll",
         "Intro a Java/9-Act. Integradora II",
         "Intro a Java/2-Clase Scanner y oper. aritméticas",
+        "Intro a Java/13-Arrays",
+        "Intro a Java/12-BuclesII",
         "Intro a Java/10-Arrays",
         "Intro a Java/1-Primeros pasos con java",
-        "Intro a Java/12-BuclesII",
-        "Intro a Java/13-Arrays"
+        "Intro a Java/ActIntegradoraV"
     ]
 }
